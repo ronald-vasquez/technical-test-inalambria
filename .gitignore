@@ -3,3 +3,10 @@
 ################################################################################
 
 /Inalambria.API/Logs
+/Inalambria.API/.vs
+/Inalambria.API/bin/Debug/net6.0
+/Inalambria.API/obj
+/Inalambria.Core/bin/Debug/net6.0
+/Inalambria.Core/obj
+/Inalambria.Infrastructure/bin/Debug/net6.0
+/Inalambria.Infrastructure/obj
